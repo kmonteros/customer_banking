@@ -1,4 +1,11 @@
 # customer_banking
 
-### files 'account.py', 'cd_account.py', 'customer_banking.py', and 'savings_account.py' contain the code related to the file name. 
-### file 'hw3.ipynb' contains all code together.
+
+The following files contain the code related to it's file name:
+- account.py
+- cd_accounts.py
+- customer_banking.py
+- savings_account.py
+
+The following file contains all the code together:
+- hy3.ipynb
